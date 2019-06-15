@@ -1,4 +1,4 @@
-# [PROJECTNAME]
+# Digital Service Standards
 
 ## About
 
@@ -10,7 +10,7 @@ Demo website: https://civicdmv.github.io/PROJECTNAME
 
 ## Connect
 
-* Slack: [#project-PROJECTNAME](#)
+* Slack: [#project-digitalservicestandards(#)
 
 ## Contribute
 
@@ -27,7 +27,7 @@ See the [CivicDMV design principles](https://civicdmv-handbook.readthedocs.io/en
 
 ## Product owner
 
-[Firstname Lastname](https://github.com/USERNAME)
+[Rachel Kroft](https://github.com/USERNAME)
 
 ## License
 
