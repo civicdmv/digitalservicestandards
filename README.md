@@ -2,11 +2,16 @@
 
 ## About
 
-This is a [CivicDMV](https://civicdmv.org) project aimed at [ADD OBJECTIVE HERE].
+The Digital Service Standards is a [CivicDMV](https://civicdmv.org) project. The Digital Service Standards Project is about analyzing the digital state of the Department of Motor Vehicles and set a baseline that will raise the bar for all public-facing DMV websites.
 
 ## Demo
 
-Demo website: https://civicdmv.github.io/PROJECTNAME
+Medium Posts:
+Announcing project: https://medium.com/civicdmv/launching-the-dmv-web-standards-project-c91a298f21e1
+HTTPS Standard: 
+Mobile responsive standard:
+
+Spreadsheet: 
 
 ## Connect
 
@@ -18,8 +23,8 @@ See [Contributions](contributing.md).
 
 ## Tech/frameworks
 
-* abc
-* xyz
+* HTTPS tool: https://www.sslshopper.com/ssl-checker.html
+* Mobile friendly tool: https://search.google.com/test/mobile-friendly
 
 ## Design principles
 
