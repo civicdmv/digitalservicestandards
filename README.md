@@ -13,7 +13,7 @@ HTTPS Standard:
 
 Mobile responsive standard:
 
-Spreadsheet: 
+Spreadsheet: https://docs.google.com/spreadsheets/d/1J68F4CSD711y9DjaLqbwfWg5WRSO8yhxrcRQLc1-cS8/edit#gid=416874578
 
 ## Connect
 
