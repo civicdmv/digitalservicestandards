@@ -8,7 +8,9 @@ The Digital Service Standards is a [CivicDMV](https://civicdmv.org) project. The
 
 Medium Posts:
 Announcing project: https://medium.com/civicdmv/launching-the-dmv-web-standards-project-c91a298f21e1
+
 HTTPS Standard: 
+
 Mobile responsive standard:
 
 Spreadsheet: 
