@@ -4,6 +4,9 @@
 
 The Digital Service Standards is a [CivicDMV](https://civicdmv.org) project. The Digital Service Standards Project is about analyzing the digital state of the Department of Motor Vehicles and set a baseline that will raise the bar for all public-facing DMV websites.
 
+To input ideas for a digital service standard go here:
+https://docs.google.com/document/d/11kQrr1JX8kwVPaFP25MiLGDeWNZWgqqsiVkLiWwxUVM/edit
+
 ## Demo
 
 Medium Posts:
