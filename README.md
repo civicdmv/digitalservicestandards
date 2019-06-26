@@ -12,9 +12,9 @@ https://docs.google.com/document/d/11kQrr1JX8kwVPaFP25MiLGDeWNZWgqqsiVkLiWwxUVM/
 Medium Posts:
 Announcing project: https://medium.com/civicdmv/launching-the-dmv-web-standards-project-c91a298f21e1
 
-HTTPS Standard: 
+HTTPS Standard: https://medium.com/civicdmv/is-your-state-dmv-website-secure-505c3aea54c6
 
-Mobile responsive standard:
+Mobile responsive standard:https://medium.com/civicdmv/is-your-state-dmv-website-mobile-friendly-a3097d8cf45?postPublishedType=repub
 
 Spreadsheet: https://docs.google.com/spreadsheets/d/1J68F4CSD711y9DjaLqbwfWg5WRSO8yhxrcRQLc1-cS8/edit#gid=416874578
 
