@@ -7,6 +7,8 @@ The Digital Service Standards is a [CivicDMV](https://civicdmv.org) project. The
 To input ideas for a digital service standard go here:
 https://docs.google.com/document/d/11kQrr1JX8kwVPaFP25MiLGDeWNZWgqqsiVkLiWwxUVM/edit
 
+Spreadsheet for data collection go here: https://docs.google.com/spreadsheets/d/1vRXjq9dt23WFuWSZhWI-YRv5IUPQu3XI7MSXH5dtdVM/edit#gid=0
+
 ## Demo
 
 Medium Posts:
